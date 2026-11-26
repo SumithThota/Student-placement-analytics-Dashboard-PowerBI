@@ -22,6 +22,7 @@ The report is descriptive: it summarizes the supplied dataset and does not estab
 ├── Student Placement Dashboard.png
 └── student_placement_career_success_dataset.csv
 ```
+<img width="2880" height="1700" alt="image" src="https://github.com/user-attachments/assets/4c51c1fa-28d9-4455-8fc2-c16a55a9f04e" />
 
 | File | Purpose |
 | --- | --- |
